@@ -150,6 +150,9 @@ cython_debug/
 .DS_Store
 Thumbs.db
 
+# 构建产物（make_app.sh 生成）
+PictureZip.app/
+
 # IDE
 .vscode/
 .idea/
